@@ -1,0 +1,5 @@
+requests
+phonenumbers
+beautifulsoup4
+python-whois
+dnspython
