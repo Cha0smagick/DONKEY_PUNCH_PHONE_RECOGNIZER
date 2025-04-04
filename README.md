@@ -1,6 +1,4 @@
-# Phone Number OSINT Tool
-
-![Tool Banner](https://via.placeholder.com/800x200?text=Phone+Number+OSINT+Tool)
+# DONKEY PUNCH OSINT Tool
 
 Una herramienta avanzada de análisis de números telefónicos para investigación OSINT que recopila información detallada sobre cualquier número de teléfono válido.
 
