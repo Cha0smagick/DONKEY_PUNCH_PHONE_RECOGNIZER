@@ -18,3 +18,21 @@ Una herramienta avanzada de análisis de números telefónicos para investigaci�
 
 - Python 3.7+
 - Módulos Python:
+
+pip install requests phonenumbers beautifulsoup4 python-whois dnspython
+
+## Instalación
+
+1. Clona el repositorio:
+ ```bash
+ git clone https://github.com/tu-usuario/phone-osint-tool.git
+ cd phone-osint-tool
+Instala las dependencias:
+
+bash
+
+pip install -r requirements.txt
+
+Ejecuta la herramienta:
+
+python phone_osint.py
