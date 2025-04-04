@@ -27,8 +27,8 @@ pip install requests phonenumbers beautifulsoup4 python-whois dnspython
  
  ```bash
 
-git clone https://github.com/tu-usuario/phone-osint-tool.git
-cd donkey-punch
+git clone https://github.com/tu-usuario/DONKEY_PUNCH_PHONE_RECOGNIZER.git
+cd DONKEY_PUNCH_PHONE_RECOGNIZER
 
  ```
 Instala las dependencias:
