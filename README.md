@@ -24,15 +24,21 @@ pip install requests phonenumbers beautifulsoup4 python-whois dnspython
 ## Instalación
 
 1. Clona el repositorio:
+ 
  ```bash
- git clone https://github.com/tu-usuario/phone-osint-tool.git
- cd phone-osint-tool
+
+git clone https://github.com/tu-usuario/phone-osint-tool.git
+cd donkey-punch
+
+ ```
 Instala las dependencias:
 
-bash
-
+ ```bash
 pip install -r requirements.txt
+ ```
 
 Ejecuta la herramienta:
 
-python phone_osint.py
+ ```bash
+python donkey-punch.py
+ ```
